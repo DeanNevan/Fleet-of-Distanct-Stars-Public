@@ -1,8 +1,4 @@
 [Home](Home)
-[Installation](Installation)
-[Documenting your code](Documenting)
-[Exporting your documentation](Exporting)
-[Help and Support](Help)
 
 **Quick Reference** [CameraController](CameraController)  
  [InputEventMultiScreenDrag](InputEventMultiScreenDrag)  
